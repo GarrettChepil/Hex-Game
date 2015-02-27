@@ -1,0 +1,14 @@
+﻿Build started 27/02/2015 11:52:35 AM.
+     1>Project "G:\school\C++ For C Programmers\Assignments\Assign5\Assign5\Assign5\Assign5.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\school\C++ For C Programmers\Assignments\Assign5\Assign5\Release\Assign5.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\school\C++ For C Programmers\Assignments\Assign5\Assign5\Release\Assign5.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\school\C++ For C Programmers\Assignments\Assign5\Assign5\Release\Assign5.lib" /MACHINE:X86 /SAFESEH Release\HexBoard.obj
+         Release\main.obj
+         Release\Player.obj
+         Generating code
+         Finished generating code
+         Assign5.vcxproj -> G:\school\C++ For C Programmers\Assignments\Assign5\Assign5\Release\Assign5.exe
+     1>Done Building Project "G:\school\C++ For C Programmers\Assignments\Assign5\Assign5\Assign5\Assign5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.64
